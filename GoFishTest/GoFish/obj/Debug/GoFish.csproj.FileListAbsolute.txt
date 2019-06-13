@@ -1,0 +1,14 @@
+C:\Users\BigDaddyD\Source\Repos\GoFish\GoFish\obj\Debug\GoFish.csprojAssemblyReference.cache
+C:\Users\BigDaddyD\Source\Repos\GoFish\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+C:\Users\BigDaddyD\Source\Repos\GoFish\GoFish\bin\Debug\GoFish.exe.config
+C:\Users\BigDaddyD\Source\Repos\GoFish\GoFish\bin\Debug\GoFish.exe
+C:\Users\BigDaddyD\Source\Repos\GoFish\GoFish\bin\Debug\GoFish.pdb
+C:\Users\BigDaddyD\Source\Repos\GoFish\GoFish\obj\Debug\GoFish.exe
+C:\Users\BigDaddyD\Source\Repos\GoFish\GoFish\obj\Debug\GoFish.pdb
+C:\Users\devintreichel\source\repos\GoFishTest\GoFish\bin\Debug\GoFish.exe.config
+C:\Users\devintreichel\source\repos\GoFishTest\GoFish\bin\Debug\GoFish.exe
+C:\Users\devintreichel\source\repos\GoFishTest\GoFish\bin\Debug\GoFish.pdb
+C:\Users\devintreichel\source\repos\GoFishTest\GoFish\obj\Debug\GoFish.csprojAssemblyReference.cache
+C:\Users\devintreichel\source\repos\GoFishTest\GoFish\obj\Debug\GoFish.csproj.CoreCompileInputs.cache
+C:\Users\devintreichel\source\repos\GoFishTest\GoFish\obj\Debug\GoFish.exe
+C:\Users\devintreichel\source\repos\GoFishTest\GoFish\obj\Debug\GoFish.pdb
